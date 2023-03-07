@@ -4,7 +4,7 @@
 # RECODE BOLEH NGAP TAPI JNGN HAPUS YO BOT KOMENYA # 
 # SC HASIL RECOD MAU DI RECOD LAGI 🤭 # 
 #└─  WA : +62 8525-677-4185 # 
-#└─  FB : 𝐍𝐝𝐫𝐞𝐱 𝟐𝟎𝟐𝟑 # NdreeXyz.
+#└─  FB : rang 𝟐𝟎𝟐𝟑 # rang.
 
 #-----------------[ IMPORT-MODULE ]-------------------
 import requests,bs4,json,os,sys,random,datetime,time,re
@@ -875,7 +875,7 @@ def banner():
 
 {white}ᴠᴇʀsɪᴏɴ : 𝟶.3\n{white}     """)
                                               
-### 085256774185 ### 
+### 081111111111 ### 
 ### RECODE LGI BOLEH, TAPI JNGN HAPUS YO BOT KOMENYO ### 
 # 
 #
@@ -945,8 +945,8 @@ def menu(id):
 	banner()
 	ip = requests.get("https://api.ipify.org").text 
 	ndrex_bansat('============================') 
-	print(f'{b}• {white}ᴀᴜᴛʜᴏʀ : ɴᴅʀᴇx ') 
-	print(f'{b}• {white}ᴡᴀ : +𝟼𝟸𝟾𝟻𝟸𝟻𝟼𝟽𝟽𝟺𝟷𝟾𝟻') 
+	print(f'{b}• {white}ᴀᴜᴛʜᴏʀ : rangx ') 
+	print(f'{b}• {white}ᴡᴀ : 081111111111') 
 	ndrex_bansat('============================') 
 	print(f'• Your ID : {id}') 
 	print(f'• Your IP : {ip}') 
