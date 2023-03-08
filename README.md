@@ -1,11 +1,23 @@
 # BBFF
 pkg update && pkg upgrade -y
 
+termux-setup-storage
+
 pkg install python
 
 pkg install git
 
-python -m pip install --upgrade pip
+pip install requests mechanize
+
+
+
+
+
+pip install requests
+
+pip install rich
+
+pip install bs4
 
 
 
