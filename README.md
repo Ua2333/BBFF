@@ -29,6 +29,5 @@ cd BBFF
 
 git pull
 
-pip install -r requirement.txt
 
 python BBFF.py
