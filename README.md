@@ -1,9 +1,9 @@
 # BBFF
 pkg update && pkg upgrade -y
 
-pkg install python git - y
+pkg install python
 
-pkg install play-audio
+pkg install git
 
 python -m pip install --upgrade pip
 
