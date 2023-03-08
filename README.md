@@ -1,4 +1,5 @@
-# BBFpkg update && pkg upgrade -y
+# BBFF
+pkg update && pkg upgrade -y
 
 pkg install python git - y
 
