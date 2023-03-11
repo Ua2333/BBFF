@@ -23,10 +23,11 @@ pip install bs4
 
 git clone https://github.com/Ua2333/BBFF
 
-ls
+
 
 cd BBFF
 
+ls
 git pull
 
 
