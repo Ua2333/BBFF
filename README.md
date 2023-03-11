@@ -10,7 +10,7 @@ pkg install git
 pip install requests mechanize
 
 
-
+pip install stdiomask
 
 
 pip install requests
