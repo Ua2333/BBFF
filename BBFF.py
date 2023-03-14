@@ -3,7 +3,7 @@
 
 # RECODE BOLEH NGAP TAPI JNGN HAPUS YO BOT KOMENYA # 
 # SC HASIL RECOD MAU DI RECOD LAGI 🤭 # 
-#└─  WA : +62 8525-677-4185 # 
+
 #└─  FB : rang 𝟐𝟎𝟐𝟑 # rang.
 
 #-----------------[ IMPORT-MODULE ]-------------------
