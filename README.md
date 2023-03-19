@@ -30,4 +30,4 @@ cd BBFF
 git pull
 
 
-python BBFF.py
+python haki-1.py
