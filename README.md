@@ -1,22 +1,5 @@
 # BBFF
-pkg update && pkg upgrade -y
 
-
-pkg install python
-
-pkg install git
-
-pip install requests mechanize
-
-
-pip install stdiomask
-
-
-pip install requests
-
-pip install rich
-
-pip install bs4
 
 
 
@@ -30,4 +13,4 @@ cd BBFF
 git pull
 
 
-python haki-1.py
+python runn.py
